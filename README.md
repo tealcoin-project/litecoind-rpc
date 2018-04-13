@@ -17,7 +17,7 @@ npm install tealcoind-rpc
 
 ```javascript
 var run = function() {
-  var bitcore = require('litecore-tealcoin');
+  var bitcore = require('teal-litecore');
   var RpcClient = require('tealcoind-rpc');
 
   var config = {
