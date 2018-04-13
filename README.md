@@ -3,14 +3,14 @@ bitcoind-rpc.js
 
 [![NPM Package](https://img.shields.io/npm/v/bitcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/tealcoind-rpc)
 
-A client library to connect to Bitcoin Core RPC in JavaScript.
+A client library to connect to Tealcoin Core RPC in JavaScript.
 
 ## Get Started
 
-bitcoind-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
+tealcoind-rpc.js runs on [node](http://nodejs.org/), and can be installed via [npm](https://npmjs.org/):
 
 ```bash
-npm install bitcoind-rpc
+npm install tealcoind-rpc
 ```
 
 ## Examples
