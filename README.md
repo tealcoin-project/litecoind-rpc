@@ -1,4 +1,4 @@
-tealcoind-rpc.js
+bitcoind-rpc.js
 ===============
 
 [![NPM Package](https://img.shields.io/npm/v/tealcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/tealcoind-rpc)
@@ -17,7 +17,7 @@ npm install tealcoind-rpc
 
 ```javascript
 var run = function() {
-  var bitcore = require('teal-litecore');
+  var bitcore = require('litecore-teal');
   var RpcClient = require('tealcoind-rpc');
 
   var config = {
