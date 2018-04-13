@@ -1,7 +1,7 @@
-bitcoind-rpc.js
+tealcoind-rpc.js
 ===============
 
-[![NPM Package](https://img.shields.io/npm/v/bitcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/tealcoind-rpc)
+[![NPM Package](https://img.shields.io/npm/v/tealcoind-rpc.svg?style=flat-square)](https://www.npmjs.org/package/tealcoind-rpc)
 
 A client library to connect to Tealcoin Core RPC in JavaScript.
 
